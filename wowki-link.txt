@@ -1,0 +1,9 @@
+* Projeto Wowki *
+
+https://wokwi.com/projects/409784705874681857
+
+* Lib utilizadas *
+
+PubSubClient
+DHT sensor library for ESPx
+ArduinoJson
